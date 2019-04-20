@@ -9,7 +9,7 @@ public class Area {
 	public static Double areaRetangulo(Double base, Double altura) {
 		return (double) (base * altura);
 	}
-	
+	 
 	public static Double areaCirculo(Double raio) {
 		return Math.PI * raio * raio;
 	}
